@@ -65,6 +65,10 @@ module.exports = {
         source: '/telemetry.js',
         destination: '/api/scripts/telemetry',
       },
+      {
+        source: '/u.js',
+        destination: '/umami.js',
+      },
     ];
   },
 };
